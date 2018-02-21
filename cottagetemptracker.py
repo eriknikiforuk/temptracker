@@ -8,6 +8,8 @@ from email.MIMEText import MIMEText
 from email.MIMEBase import MIMEBase 
 from email import encoders
 
+bitch = bitch
+
 clock1 = "00:00"
 clock2 = "00:30"
 
